@@ -4,6 +4,8 @@
 2. npm install
 3. react-native run android 
 4. :)
+5. 
+*Doc: https://facebook.github.io/react-native/docs/getting-started.html#content
 
 # Build Android apk
 
